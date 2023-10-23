@@ -1,0 +1,14 @@
+C:\Users\ibrah\Desktop\ibrahim\pratikler\method-nedir\bin\Debug\net7.0\method-nedir.exe
+C:\Users\ibrah\Desktop\ibrahim\pratikler\method-nedir\bin\Debug\net7.0\method-nedir.deps.json
+C:\Users\ibrah\Desktop\ibrahim\pratikler\method-nedir\bin\Debug\net7.0\method-nedir.runtimeconfig.json
+C:\Users\ibrah\Desktop\ibrahim\pratikler\method-nedir\bin\Debug\net7.0\method-nedir.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\method-nedir\bin\Debug\net7.0\method-nedir.pdb
+C:\Users\ibrah\Desktop\ibrahim\pratikler\method-nedir\obj\Debug\net7.0\method-nedir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\ibrahim\pratikler\method-nedir\obj\Debug\net7.0\method-nedir.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\method-nedir\obj\Debug\net7.0\method-nedir.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\ibrahim\pratikler\method-nedir\obj\Debug\net7.0\method-nedir.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\method-nedir\obj\Debug\net7.0\method-nedir.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\method-nedir\obj\Debug\net7.0\refint\method-nedir.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\method-nedir\obj\Debug\net7.0\method-nedir.pdb
+C:\Users\ibrah\Desktop\ibrahim\pratikler\method-nedir\obj\Debug\net7.0\method-nedir.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\method-nedir\obj\Debug\net7.0\ref\method-nedir.dll
